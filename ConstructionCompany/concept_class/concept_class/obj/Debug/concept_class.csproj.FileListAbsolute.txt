@@ -1,0 +1,151 @@
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\bin\Debug\concept_class.exe.config
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\bin\Debug\concept_class.exe
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\bin\Debug\concept_class.pdb
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.csprojResolveAssemblyReference.cache
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.Form1.resources
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.Properties.Resources.resources
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.csproj.GenerateResource.Cache
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.exe
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.pdb
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.encryption.resources
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.loading_Form.resources
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.MDIParent1.resources
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.messageBoxSu.resources
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.PassChangeFrm.resources
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.MessageBoxWarning.resources
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.MessageBoxConfrm.resources
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmTeacher.resources
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.teacherAttFrm.resources
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmBank.resources
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmBankAccount.resources
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmBankCre_dbe.resources
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmExpanse.resources
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmStudent.resources
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmStudentAtt.resources
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmStudentFees.resources
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmStudentShift.resources
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmTeacherSalary.resources
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmteacherShift.resources
+C:\Users\abdul\Desktop\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmteacherSub.resources
+F:\coachingCenter\concept_class\concept_class\bin\Debug\concept_class.exe.config
+F:\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.exe
+F:\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.pdb
+F:\coachingCenter\concept_class\concept_class\bin\Debug\concept_class.exe
+F:\coachingCenter\concept_class\concept_class\bin\Debug\concept_class.pdb
+F:\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.csprojResolveAssemblyReference.cache
+F:\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.encryption.resources
+F:\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.Form1.resources
+F:\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmBank.resources
+F:\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmBankAccount.resources
+F:\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmBankCre_dbe.resources
+F:\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmExpanse.resources
+F:\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmStudent.resources
+F:\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmStudentAtt.resources
+F:\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmStudentFees.resources
+F:\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmStudentShift.resources
+F:\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmTeacher.resources
+F:\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmTeacherSalary.resources
+F:\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmteacherShift.resources
+F:\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmteacherSub.resources
+F:\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.loading_Form.resources
+F:\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.MDIParent1.resources
+F:\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.MessageBoxConfrm.resources
+F:\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.messageBoxSu.resources
+F:\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.MessageBoxWarning.resources
+F:\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.PassChangeFrm.resources
+F:\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.Properties.Resources.resources
+F:\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.teacherAttFrm.resources
+F:\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.csproj.GenerateResource.Cache
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\bin\Debug\concept_class.exe.config
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.exe
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.pdb
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\bin\Debug\concept_class.exe
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\bin\Debug\concept_class.pdb
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.csprojResolveAssemblyReference.cache
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.encryption.resources
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.Form1.resources
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmBank.resources
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmBankAccount.resources
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmBankCre_dbe.resources
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmExpanse.resources
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmStudent.resources
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmStudentAtt.resources
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmStudentFees.resources
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmStudentShift.resources
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmTeacher.resources
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmTeacherSalary.resources
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmteacherShift.resources
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmteacherSub.resources
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.loading_Form.resources
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.MDIParent1.resources
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.MessageBoxConfrm.resources
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.messageBoxSu.resources
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.MessageBoxWarning.resources
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.PassChangeFrm.resources
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.Properties.Resources.resources
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.teacherAttFrm.resources
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.csproj.GenerateResource.Cache
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmEmployee.resources
+C:\Users\Abdullah Rao\Desktop\usnb\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.Frm_User.resources
+F:\C#\coachingCenter\concept_class\concept_class\bin\Debug\concept_class.exe.config
+F:\C#\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.exe
+F:\C#\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.pdb
+F:\C#\coachingCenter\concept_class\concept_class\bin\Debug\concept_class.exe
+F:\C#\coachingCenter\concept_class\concept_class\bin\Debug\concept_class.pdb
+F:\C#\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.csprojResolveAssemblyReference.cache
+F:\C#\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.encryption.resources
+F:\C#\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.Form1.resources
+F:\C#\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmBank.resources
+F:\C#\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmBankAccount.resources
+F:\C#\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmBankCre_dbe.resources
+F:\C#\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmEmployee.resources
+F:\C#\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmExpanse.resources
+F:\C#\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmStudent.resources
+F:\C#\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmStudentAtt.resources
+F:\C#\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmStudentFees.resources
+F:\C#\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmStudentShift.resources
+F:\C#\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmTeacher.resources
+F:\C#\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmTeacherSalary.resources
+F:\C#\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmteacherShift.resources
+F:\C#\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.FrmteacherSub.resources
+F:\C#\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.Frm_User.resources
+F:\C#\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.loading_Form.resources
+F:\C#\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.MDIParent1.resources
+F:\C#\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.MessageBoxConfrm.resources
+F:\C#\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.messageBoxSu.resources
+F:\C#\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.MessageBoxWarning.resources
+F:\C#\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.PassChangeFrm.resources
+F:\C#\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.Properties.Resources.resources
+F:\C#\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.teacherAttFrm.resources
+F:\C#\coachingCenter\concept_class\concept_class\obj\Debug\concept_class.csproj.GenerateResource.Cache
+D:\ConstructionCompany\concept_class\concept_class\bin\Debug\concept_class.exe.config
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.exe
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.pdb
+D:\ConstructionCompany\concept_class\concept_class\bin\Debug\concept_class.exe
+D:\ConstructionCompany\concept_class\concept_class\bin\Debug\concept_class.pdb
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.csprojResolveAssemblyReference.cache
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.encryption.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.Form1.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.FrmBank.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.FrmBankAccount.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.FrmBankCre_dbe.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.FrmEmployee.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.FrmExpanse.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.FrmStudent.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.FrmStudentAtt.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.FrmStudentFees.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.FrmStudentShift.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.FrmTeacher.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.FrmTeacherSalary.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.FrmteacherShift.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.FrmteacherSub.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.Frm_User.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.loading_Form.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.MDIParent1.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.MessageBoxConfrm.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.messageBoxSu.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.MessageBoxWarning.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.PassChangeFrm.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.Properties.Resources.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.teacherAttFrm.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.csproj.GenerateResource.Cache

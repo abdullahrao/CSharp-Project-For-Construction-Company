@@ -1,0 +1,17 @@
+D:\ConstructionCompany\concept_class\concept_class\bin\Debug\concept_class.exe.config
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.exe
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.pdb
+D:\ConstructionCompany\concept_class\concept_class\bin\Debug\concept_class.exe
+D:\ConstructionCompany\concept_class\concept_class\bin\Debug\concept_class.pdb
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\Application.csprojResolveAssemblyReference.cache
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.encryption.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.Form1.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.FrmTeacher.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.loading_Form.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.MDIParent1.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.MessageBoxConfrm.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.messageBoxSu.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.MessageBoxWarning.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.PassChangeFrm.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.Properties.Resources.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\Application.csproj.GenerateResource.Cache

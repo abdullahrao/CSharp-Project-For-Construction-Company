@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{206878BB-1DA8-4B5A-BDE1-B08E7829BC5B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>concept_class</RootNamespace>
+    <AssemblyName>concept_class</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BillContractRpt.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BillContractRpt.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BillContractWiseRpt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BillContractWiseRpt.Designer.cs">
+      <DependentUpon>BillContractWiseRpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BillVillaRpt.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BillVillaRpt.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BillVillaWiseRpt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BillVillaWiseRpt.Designer.cs">
+      <DependentUpon>BillVillaWiseRpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BoundaryWall.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BoundaryWall.Designer.cs">
+      <DependentUpon>BoundaryWall.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contract.Designer.cs">
+      <DependentUpon>Contract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contratctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contratctor.Designer.cs">
+      <DependentUpon>Contratctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer.Designer.cs">
+      <DependentUpon>Customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="encryption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="encryption.Designer.cs">
+      <DependentUpon>encryption.cs</DependentUpon>
+    </Compile>
+    <Compile Include="enMethod.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTeacher.Designer.cs">
+      <DependentUpon>FrmTeacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GenExpense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GenExpense.Designer.cs">
+      <DependentUpon>GenExpense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="loading_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loading_Form.Designer.cs">
+      <DependentUpon>loading_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDIParent1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIParent1.Designer.cs">
+      <DependentUpon>MDIParent1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessageBoxConfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessageBoxConfrm.Designer.cs">
+      <DependentUpon>MessageBoxConfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="messageBoxSu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="messageBoxSu.Designer.cs">
+      <DependentUpon>messageBoxSu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessageBoxWarning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessageBoxWarning.Designer.cs">
+      <DependentUpon>MessageBoxWarning.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MiscExpense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MiscExpense.Designer.cs">
+      <DependentUpon>MiscExpense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PassChangeFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PassChangeFrm.Designer.cs">
+      <DependentUpon>PassChangeFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pg.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staff.Designer.cs">
+      <DependentUpon>staff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaffRpt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffRpt.Designer.cs">
+      <DependentUpon>StaffRpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaffRPT11.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StaffRPT1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Store.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Store.Designer.cs">
+      <DependentUpon>Store.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Villa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Villa.Designer.cs">
+      <DependentUpon>Villa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VillaMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VillaMaterial.Designer.cs">
+      <DependentUpon>VillaMaterial.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BillContractRpt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BillContractRpt.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BillContractWiseRpt.resx">
+      <DependentUpon>BillContractWiseRpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BillVillaRpt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BillVillaRpt.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BillVillaWiseRpt.resx">
+      <DependentUpon>BillVillaWiseRpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BoundaryWall.resx">
+      <DependentUpon>BoundaryWall.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contract.resx">
+      <DependentUpon>Contract.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contratctor.resx">
+      <DependentUpon>Contratctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer.resx">
+      <DependentUpon>Customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="encryption.resx">
+      <DependentUpon>encryption.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTeacher.resx">
+      <DependentUpon>FrmTeacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GenExpense.resx">
+      <DependentUpon>GenExpense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loading_Form.resx">
+      <DependentUpon>loading_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIParent1.resx">
+      <DependentUpon>MDIParent1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageBoxConfrm.resx">
+      <DependentUpon>MessageBoxConfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="messageBoxSu.resx">
+      <DependentUpon>messageBoxSu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageBoxWarning.resx">
+      <DependentUpon>MessageBoxWarning.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MiscExpense.resx">
+      <DependentUpon>MiscExpense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PassChangeFrm.resx">
+      <DependentUpon>PassChangeFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="staff.resx">
+      <DependentUpon>staff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffRpt.resx">
+      <DependentUpon>StaffRpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffRPT1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>StaffRPT11.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Store.resx">
+      <DependentUpon>Store.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Villa.resx">
+      <DependentUpon>Villa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VillaMaterial.resx">
+      <DependentUpon>VillaMaterial.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

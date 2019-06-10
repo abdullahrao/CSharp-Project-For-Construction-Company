@@ -1,0 +1,24 @@
+C:\Users\abdul\Desktop\FinAlpRo\connnection\connnection\bin\Debug\connnection.exe.config
+C:\Users\abdul\Desktop\FinAlpRo\connnection\connnection\bin\Debug\connnection.exe
+C:\Users\abdul\Desktop\FinAlpRo\connnection\connnection\bin\Debug\connnection.pdb
+C:\Users\abdul\Desktop\FinAlpRo\connnection\connnection\obj\Debug\connnection.csprojResolveAssemblyReference.cache
+C:\Users\abdul\Desktop\FinAlpRo\connnection\connnection\obj\Debug\connnection.Connection_Form.resources
+C:\Users\abdul\Desktop\FinAlpRo\connnection\connnection\obj\Debug\connnection.Properties.Resources.resources
+C:\Users\abdul\Desktop\FinAlpRo\connnection\connnection\obj\Debug\connnection.csproj.GenerateResource.Cache
+C:\Users\abdul\Desktop\FinAlpRo\connnection\connnection\obj\Debug\connnection.exe
+C:\Users\abdul\Desktop\FinAlpRo\connnection\connnection\obj\Debug\connnection.pdb
+F:\C#\FinAlpRo\connnection\connnection\bin\Debug\connnection.exe.config
+F:\C#\FinAlpRo\connnection\connnection\obj\Debug\connnection.exe
+F:\C#\FinAlpRo\connnection\connnection\obj\Debug\connnection.pdb
+D:\ConstructionCompany\connnection\connnection\bin\Debug\connnection.exe.config
+D:\ConstructionCompany\connnection\connnection\obj\Debug\connnection.exe
+D:\ConstructionCompany\connnection\connnection\obj\Debug\connnection.pdb
+D:\ConstructionCompany\connnection\connnection\bin\Debug\connnection.exe
+D:\ConstructionCompany\connnection\connnection\bin\Debug\connnection.pdb
+D:\ConstructionCompany\connnection\connnection\obj\Debug\connnection.csprojResolveAssemblyReference.cache
+D:\ConstructionCompany\connnection\connnection\obj\Debug\connnection.Connection_Form.resources
+D:\ConstructionCompany\connnection\connnection\obj\Debug\connnection.Properties.Resources.resources
+D:\ConstructionCompany\connnection\connnection\obj\Debug\connnection.csproj.GenerateResource.Cache
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\connnection\connnection\bin\Debug\connnection.exe.config
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\connnection\connnection\obj\Debug\connnection.exe
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\connnection\connnection\obj\Debug\connnection.pdb

@@ -1,0 +1,96 @@
+D:\ConstructionCompany\concept_class\concept_class\bin\Debug\concept_class.exe.config
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.exe
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.pdb
+D:\ConstructionCompany\concept_class\concept_class\bin\Debug\concept_class.exe
+D:\ConstructionCompany\concept_class\concept_class\bin\Debug\concept_class.pdb
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\Application.csprojResolveAssemblyReference.cache
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.encryption.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.Form1.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.FrmTeacher.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.loading_Form.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.MDIParent1.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.MessageBoxConfrm.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.messageBoxSu.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.MessageBoxWarning.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.PassChangeFrm.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.Properties.Resources.resources
+D:\ConstructionCompany\concept_class\concept_class\obj\Debug\Application.csproj.GenerateResource.Cache
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\concept_class\concept_class\bin\Debug\concept_class.exe.config
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.exe
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.pdb
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\concept_class\concept_class\bin\Debug\concept_class.exe
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\concept_class\concept_class\bin\Debug\concept_class.pdb
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\concept_class\concept_class\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.Customer.resources
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.encryption.resources
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.Form1.resources
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.FrmTeacher.resources
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.loading_Form.resources
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.MDIParent1.resources
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.MessageBoxConfrm.resources
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.messageBoxSu.resources
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.MessageBoxWarning.resources
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.PassChangeFrm.resources
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.Properties.Resources.resources
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.Villa.resources
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\concept_class\concept_class\obj\Debug\Application.csproj.GenerateResource.Cache
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.staff.resources
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.Contratctor.resources
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.Store.resources
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.Contract.resources
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.GenExpense.resources
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.MiscExpense.resources
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.VillaMaterial.resources
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.BoundaryWall.resources
+C:\Users\MUHAMMAD IRFAN\Desktop\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.RunningBillCon.resources
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\bin\Debug\concept_class.exe.config
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.exe
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.pdb
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\bin\Debug\concept_class.exe
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\bin\Debug\concept_class.pdb
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.BoundaryWall.resources
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.Contract.resources
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.Contratctor.resources
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.Customer.resources
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.encryption.resources
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.Form1.resources
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.FrmTeacher.resources
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.GenExpense.resources
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.loading_Form.resources
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.MDIParent1.resources
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.MessageBoxConfrm.resources
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.messageBoxSu.resources
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.MessageBoxWarning.resources
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.MiscExpense.resources
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.PassChangeFrm.resources
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.Properties.Resources.resources
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.RunningBillCon.resources
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.staff.resources
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.Store.resources
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.Villa.resources
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.VillaMaterial.resources
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\Application.csproj.GenerateResource.Cache
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\bin\Debug\FlashControlV71.dll
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\bin\Debug\stdole.dll
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.BillVillaWiseRpt.resources
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.BillContractWiseRpt.resources
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.StaffRpt.resources
+C:\Users\abdul\Downloads\Compressed\ConstructionCompany\concept_class\concept_class\obj\Debug\concept_class.RunningBillRpt.resources
